@@ -1,1 +1,1 @@
-Poprawa wydajności, lokalizacja metadanych
+Naprawiono błędy
